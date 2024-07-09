@@ -30,6 +30,8 @@ Use the mouse to control the paddle and try to hit the ball. The game keeps trac
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
+## page is live
+https://sakapanchu.github.io/ping_pong_game/
 ## License
 This project is licensed under the MIT License.
 
